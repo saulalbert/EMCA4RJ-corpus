@@ -1,5 +1,5 @@
 @UTF8
-@Window:	81_0_938_1080_-1_-1_381_0_381_0
+@Window:	81_0_938_1080_-1_-1_487_0_487_0
 @Begin
 @Languages:	en
 @Participants:	 KAY Kayla Adult, JAI Jaime Adult, TVA TV actor, ROO
@@ -11,6 +11,7 @@
 @ID:	en|change_corpus_later|KAY|||||Adult|||
 @ID:	en|change_corpus_later|TVA|||||Adult|||
 @Comment: Version 1.0 // Last updated 02/21/2023
+@Comment: Please contribute any improvements via: https://github.com/saulalbert/EMCA4RJ-corpus
 *TVA:	Assuming the worst that can happen 0_1588
 		(emotive music 1.8) 1588_4057
 	((click sound)) 4057_4567
