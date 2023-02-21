@@ -1,5 +1,5 @@
 @UTF8
-@Window:	81_0_938_1080_-1_-1_76987_0_77025_0
+@Window:	81_0_938_1080_-1_-1_381_0_381_0
 @Begin
 @Languages:	en
 @Participants:	 KAY Kayla Adult, JAI Jaime Adult, TVA TV actor, ROO
@@ -10,6 +10,7 @@
 @ID:	en|change_corpus_later|TV4|||||Adult|||
 @ID:	en|change_corpus_later|KAY|||||Adult|||
 @ID:	en|change_corpus_later|TVA|||||Adult|||
+@Comment: Version 1.0 // Last updated 02/21/2023
 *TVA:	Assuming the worst that can happen 0_1588
 		(emotive music 1.8) 1588_4057
 	((click sound)) 4057_4567
@@ -1443,7 +1444,7 @@
 *KAY:	He's so weird 3605220_3605883
 *JAI:	((   )) 3605883_3607916
 *KAY:	He's such an awkward - like he's good for this role, which is so 3607916_3611639
-	weird  3611639_3612168
+	weird  3611639_3612168
 *KAY:	.h heh 3612168_3614171
 *JAI:	he is hilarious though 3614171_3615193
 *PCA	((MEDIA PLAYS)) 3615193_3617489
