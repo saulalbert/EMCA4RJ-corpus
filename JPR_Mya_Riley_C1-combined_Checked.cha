@@ -1,5 +1,5 @@
 @UTF8
-@Window:	0_0_1415_1080_-1_-1_1628_0_1628_0
+@Window:	0_0_1415_1330_-1_-1_91511_0_91511_0
 @Begin
 @Languages:	eng
 @Participants:	RIL Riley Student, MYA Mya Student, JOS Joshua Researcher
@@ -499,17 +499,19 @@
 *RIL:	Yup. 1034555_1035670
 *MYA:	(⁎I love it.⁎) 1035670_1036269
 	(2.5) 1036269_1037914
-*MYA:	You a coffee drinker? 1037914_1039236
-*RIL:	No. 1039236_1039936
-*MYA:	No? 1039936_1040336
+*MYA:	∙hh You a co̲ffee drinker? 1037914_1039236
+*RIL:	No,= 1039236_1039936
+*MYA:	=No, 1039936_1040336
+	(0.2)
 *RIL:	I hate coffee. 1040336_1041221
 *MYA:	((tilting head left)) 1041221_1041968
-*MYA:	I'm a tea- I'm a tea person. 1041968_1043369
-*RIL:	Um. Eh. Ice chai la[tte.   ] 1043369_1046040
-*MYA:	                   [Course.] 1046040_1046685
-*RIL:	Yeah. 1046685_1047206
-*MYA:	I do like those. 1047206_1047965
-	(3.2) 1047965_1051546
+*MYA:	I'm a te̲:a- [I'm a ] tea pers[on. 1041968_1043369
+*RIL:	            [I'm a-]         [U::m. (0.9) tch a::h (.) Ice cha̲:̲:̲i̲ 1042384_1045445
+	latt[eː̲:̲,] 1043369_1046040
+*MYA:	    [ooh.]= 1046040_1046685
+*RIL:	=⁎Ye[ah⁎. 1046685_1047206
+*MYA:	    [I d̲o̲ like those hh, 1047206_1047965
+	(2.8) 1048149_1050629
 *RIL:	What else do we got? 1051546_1052063
 *MYA:	Um:. ((putting the drink down)) WaWa or Sheetz. 1052063_1055530
 *RIL:	((sighing and shaking head)) 1055530_1057211
@@ -1595,14 +1597,14 @@
 *MYA:	okay thanks (bud) 3440686_3441486
 *???:	see ya dude 3441486_3442370
 *MYA:	bye 3442370_3442974
-	((sits back down again)) 3442974_3443567
-*JOS:	Hi 3443567_3446835
-*MYA:	Hey 3446835_3447415
-*RIL:	Hi 3447415_3447807
-*JOS:	How'd it go 3447807_3448170
-*RIL:	is go[od 3448170_3448740
-*MYA:	     [good= 3448740_3449124
-*JOS:	good 3449124_3449618
+	((MYA sits down, door opens)) 3444251_3445616
+*JOS:	Hi̲[:. 3445995_3446411
+*RIL:	  [Helo[:̲:o̲:.] 3446245_3446981
+*MYA:	       [He̲:y ]hey. 3446752_3447077
+*JOS:	How'd it go̲. 3447291_3447893
+*RIL:	it[was go:̲od, 3448170_3448740
+*MYA:	  [was good.= 3448740_3449124
+*JOS:	=go̲o̲d. 3449124_3449618
 *RIL:	I feel like I talked too much [((laughs))] 3449618_3450804
 *MYA:				      [((laughs))] 3450804_3451752
 *JOS:	I think that could only be to my benefit! I can't imagine 3451752_3454598
